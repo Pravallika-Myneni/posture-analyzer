@@ -2,8 +2,8 @@
 
 *Say no to zoom slouching and check your posture*
 
-Sitting at your desk in a bad posture and attending meetings all day can cause severe neck pains, headaches,back pains and even spinal curvature in the long run!
-The POSTURE ANALYZER will tell you if you have not been sitting in a good posture all you need is a webcam.
+Sitting at your desk in a bad posture and attending meetings all day can cause severe neck pains, headaches,back pains and even spinal curvature in the long run!<br>
+The POSTURE ANALYZER will tell you if you have not been sitting in a good posture,all you need is a webcam.
 
 CONTRIBUTORS   
 ---
